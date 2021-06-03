@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The recantation of Mercurius Aulicus, or Berkinheads complaint.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92306</idno><idno type="EEBO-CITATION">99859236</idno>
+  <idno type="VID">155031</idno>
+  <idno type="EEBO-PROQUEST">2240893284</idno>
+  
+            <idno type="STC">Wing R612</idno>
+            <idno type="STC">Thomason E37_17</idno>
+            <idno type="STC">ESTC R12221</idno>
+            <idno type="PROQUEST">99859236</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859236e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92306)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155031)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 7:E37[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The recantation of Mercurius Aulicus, or Berkinheads complaint.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed according to order for I. F.,</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>[1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>A satire.</note>
+                  <note>Annotation on Thomason copy: "March: 14 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Birkenhead, John, --  Sir, 1616-1679.</term>
+               <term type="uniform_title">Mercurius Aulicus --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:155031:1"/>
+            <head>The Recantation of <hi>Mercurius Aulicus,</hi> OR <hi>Berkinheads</hi> Complaint.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not unknown to the world what week<g ref="char:EOLhyphen"/>ly bickerings there have been, and still are, betweene these Grand Competitors in Wit, the <hi>Spie, Britannicus,</hi> and <hi>Aulicus.</hi> This latter had its beginning at the Court in <hi>Oxford,</hi> and from thence still re<g ref="char:EOLhyphen"/>ceives its sustenance, to the great expence of University Invention: For they say there is deepe Ex<g ref="char:EOLhyphen"/>cise put upon all Braines that pretend in the least wise to Wit, and that the Returnes of all Jests, halfe-jests, quarter<g ref="char:EOLhyphen"/>jests, and Quibbles, happening within the limits of the Camp, Court, or the Taverns, that may any waies twitch the Round-heads, are once a week made upon just account, into <hi>Berkinheads</hi> Office, towards the maintenance of this same <hi>Aulicus.</hi> Thus farre doe the Schollars contribute. But then besides this, there is a weekly contribution from the Courtiers, consisting of severall confused Relations concerning State-affaires, Victories, prosperous procee<g ref="char:EOLhyphen"/>dings of their Armies abroad, and other strange <hi>Chimera's</hi> that never were in being, nor so much as in likelihood of being: And these, to make <hi>Aulicus</hi> a plausible creature of a penny price, are brought in by that State-Crittick, <hi>George Digby,</hi> who is thus farre beholding to the old Fox, his father, that he is a Spaniard both by birth and bree<g ref="char:EOLhyphen"/>ding: Fellow-helpers in this Worke, are <hi>Mortimer</hi> of Yarmouth, fat <hi>Endymion</hi> the Court-begger, the two Grand Caterpillars of Rome, <hi>Reade</hi> and <hi>Ashton,</hi> the whole rabble of Jesuites, and Jesuited Favorites, a Century of Spanish, a Millenary of Irish, a Covey of French, a Can<g ref="char:EOLhyphen"/>ton
+<pb n="2" facs="tcp:155031:2"/>of Switzers, and Walloones, a whole Pedegree of Welsh-Pagan-Politians, and no lesse then a Purgatory<g ref="char:EOLhyphen"/>full of Popish Athiests, and Ambitious Prelates, Deanes, Arch-deacons, Court-Chaplaines, &amp;c. Here let us breathe a while, and pauze. What a strange, monstrous extract must this <hi>Aulicus</hi> be, out of so many mixtures! And yet beleeve me, it is the very Darling of the Court, they prefer it before the Bible: but not without some reason I war<g ref="char:EOLhyphen"/>rant you. Because it serves their turne better, in being more advantagious to their cause than that can be. For at London it is the Malignants Creed. In the Countrey it deludes the people sufficiently, and all slanders cast upon the Parliament, and Parliamentary proceedings passe there for currant truths. And this is the good service that <hi>Aulicus</hi> hath done the adverse party: Nay, this Court-Pamphlet was growne into such reputati<g ref="char:EOLhyphen"/>on, that what scurrility soever was therein broached, was presently cryed up for excellent wit, jerking stuffe; all lies, scandals, worthlesse, and opprobrious calumnies against the Republicke, stood as so many undeniable ar<g ref="char:EOLhyphen"/>guments in the capacity of weaker judgements. But in processe of time, after that <hi>Aulicus</hi> had had his full swinge, uncontrolled by those who thought innocency and truth a sufficient guard against calumny, and falshood, it was at last thought convenient to silence that lying Oracle, by way of contradiction, though his owne very relations might have saved that labour, if all men could equally discerne. Hereupon <hi>Mercurius Britannicus</hi> stept into the world, and after him the <hi>Spie,</hi> undertaking that daring Champion of the Cavaliers in that way wherein they had so long domineerd; and hath of late carried themselves so gallantly, and shown themselves so prevailing against their Enemy, that they appeare to be truely Mercuriall, exact Candidates of Wit, <hi>Aulicus</hi> but a meere pretender.</p>
+            <pb n="3" facs="tcp:155031:2"/>
+            <p>To this truth the very conscience of <hi>Aulicus</hi> himselfe, and his best friends do beare witnesse, and therefore lan<g ref="char:EOLhyphen"/>guishing under the burthen of powerfull Pens, so skilfully handled by these renowned Antagonists, he hath of late summoned all the wormatick wits in <hi>Oxford,</hi> whose brains for this twelve moneths have had no other pickle but bad Sacke, small Beere, Melancholy, and Rhume, to make their personall appearance before him: As also all his un<g ref="char:EOLhyphen"/>der-officers, Court-Scouts, and Impes of Intelligence; who being all met, and seated in a full Consistory, <hi>Exit Ridulus Mus,</hi> He shooke his eares, and standing forth in the midst, opened his mouth, and said, as followeth;</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <head>The Speech of <hi>Aulicus.</hi>
+                        </head>
+                        <p>It grieves me (my beloved friends and brethren of the learned Corporation) that I have lived to see this day, wherein so fatall a necessity hath at this time forced me to assemble you. I little thought ever to have vented my Oratory to such persons, in such a manner, to such an end, whereas the subject of my present discourse must in the very mentioning condemne all our former triumphs to be grounded upon too-much weaknesse; You well know with what alacrity, with what eagernesse you for<g ref="char:EOLhyphen"/>merly brought in, and I readily composed the matter of that illustrious stratagem of our braines, under the name of <hi>Mercurius Aulicus.</hi> You know for a long time what rare ef<g ref="char:EOLhyphen"/>fects it had to our advantage, with what high esteeme, with what more then ordinary expectation the whole Kindome travailed every weeke for the delivery of our Presse. We then were a terrour, not onely to the stubborne Stickler; in the City, but to their Confederates also in the Coun<g ref="char:EOLhyphen"/>trey, and by vertue of this our Grand Master-peece had well-nigh deluded the whole Kingdome into our party.
+<pb n="4" facs="tcp:155031:3"/>But now the Case is altered, we have held out as long as we could, The necke of our Designe is broken, togethe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> with our credit, the Round-heads have gotten this ad<g ref="char:EOLhyphen"/>vantage over us in the mindes of men, to be rather belee<g ref="char:EOLhyphen"/>ved; and our best reports, even those which come neeres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> truth, are suspected for no other reason, but because they ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ours, so that the Proverbe is verified upon us; <hi>It were a good to be hanged, as have an ill name.</hi> And is it not grea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> pitty, that we were not a little more wary, and cautious in our Stories? That we ran so blindfold headlong to over-shoot the truth? First in many petty Skirmishes, then in the businesse of <hi>Edge-Hill,</hi> one while telling of <hi>Newca<g ref="char:EOLhyphen"/>stles</hi> miracles in the North, another while prodigious sto<g ref="char:EOLhyphen"/>ries of the West, and of late at <hi>Newberry,</hi> facing our ill fortune with the title of victory, and thereupon were over<g ref="char:EOLhyphen"/>taken with that fault we formerly too often fathered upon the City, <hi>viz.</hi> Publike Thanksgivings, delusive both to God and Men. From these errours our Enemies have got<g ref="char:EOLhyphen"/>ten no small oddes against us, but have taken occasion to insinuate into the mindes of men the improbability of our present and future Narratives, from the falsity of the for<g ref="char:EOLhyphen"/>mer. Besides, there are other matters wherein now they out-strip us, as Books satisfactory to the consciences of men, discovering unto them the hidden underminings of se<g ref="char:EOLhyphen"/>cret plotters to ruin both Church and State: One of which comes abroad with the down-right title of plaine <hi>English.</hi> Who would think they durst be so bold as to speak plaine <hi>English?</hi> Another under the name of the <hi>English</hi> Pope; and another tels as plainly of the Mystery of Iniquity yet working in the Kingdomes of <hi>England</hi> and <hi>Ireland:</hi> To these you may adde the discoveries of Master <hi>Prynne,</hi> who reveales most sincerely all the truth. These things, as long as we could perswade people they were otherwise, did us no hurt, and were not any prejudice at all to our procee<g ref="char:EOLhyphen"/>dings,
+<pb n="5" facs="tcp:155031:3"/>and boastings; but now that these men have prevailed so farre as to make people see and beleeve, and not staying there, to enter into a Solemne League and Covenant, so that no hope is left of their returne to us, it is no wonder if I be put beside my wonted Joviall Cue of writing, and am become the contempt and scorne of the <hi>Spie</hi> and <hi>Britannicus,</hi> the <hi>London</hi> Wits, who now tri<g ref="char:EOLhyphen"/>umphs over us in high termes; setting out in a shamefull page all private concernments of particular persons in Court, severely lashing our greatest Favourites, with licenced and uncontroulable Pens, disgracing the Prelacy, striking at the root of University ambition, wherein is in<g ref="char:EOLhyphen"/>cluded every mans hope of aspiring; And which most of all sets the hearts of the people against us, they concludes us, and all our Councels, and Designes, as Popish, and ty<g ref="char:EOLhyphen"/>rannicall. What then remaines, my beloved Associates, to be next thought of by us, but a timely prevention of those ill consequences to our fame, &amp; reputation, which may hap<g ref="char:EOLhyphen"/>pen by the bitternes of the <hi>Spie,</hi> and the weekly licentious<g ref="char:EOLhyphen"/>nes of the impartiall, biting <hi>Britannicus?</hi> But what meanes shall we use to stop their mouths? Force, we see, can do lit<g ref="char:EOLhyphen"/>tle against them, or theirs; this we have of late found true by sad experience. Bribery perhaps, if we were so well fur<g ref="char:EOLhyphen"/>nished as to part with any thing from our selves, might best worke upon them. A third way is, and that is to leave off weekly writing, but then we shall not be answerable to the expectation of our friends abroad, who desire informa<g ref="char:EOLhyphen"/>tion of the carriage of our Affaires; then the best way is still to hold up our <hi>Aulicus</hi> with plain Intelligence, and leave off throwing Granadoes of Wit to raise cumbustion in the City, and blast the Parliament; The last remedy is, to yeeld, and supplicate, and then if they be ingenuous Enemies, they will prosecute no farther, but sit down con<g ref="char:EOLhyphen"/>tented with the conquest. If any here present be unwilling <gap reason="illegible" resp="#keyers" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> this latter motion, for my owne part I shall resigne my
+<pb n="6" facs="tcp:155031:4"/>title and taske unto him, rather then proceed in this way to our owne dammage, and disadvantage, where the Ene<g ref="char:EOLhyphen"/>my hath so much ground to expatiate. And therefore, my friends <hi>Academicall,</hi> and <hi>Aulicall;</hi> I desire you to forbeare bringing hither any more Popguns, and conceited Squibs, the meere froth of sick brains, for the furnishing any more <hi>Mercuries,</hi> for I am resolved by the next opportunity to declare my selfe in a letter Supplicatory to the <hi>Spie</hi> and <hi>Britannicus,</hi> that they would be pleased to speake nothing but Intelligence, and I will promise them faithfully to make amends for what is past by writing hereafter nothing but truth; This way I conceive best for our credit, and this is my resolution.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="verse_letter">
+                        <head>A Letter Supplicatory in Verse, sent from <hi>Mercurius Aulicus,</hi> to the Renowned Wits of <hi>London,</hi> the <hi>Spie</hi> and <hi>Mercurius Britannicus.</hi>
+                        </head>
+                        <lg>
+                           <l>PArdon, Great Wits, if I now at this time</l>
+                           <l>Do penance, for my former Prose, in Rime.</l>
+                           <l>Expect not here to find those lofty straines,</l>
+                           <l>Which richest Sacke bestowes on wealthy braines;</l>
+                           <l>For we are poore, and dull, and dabble here,</l>
+                           <l>And deale in nothing beyond Hops, or Beere.</l>
+                           <l>Heare then, you great Monopolists of wit,</l>
+                           <l>Receive my humble suit, and ponder it,</l>
+                           <l>Accept this willing tribute to your Name,</l>
+                           <l>A borrowed Sparke from <hi>Robin Wisdoms</hi> flame.</l>
+                           <l>Know, if that <hi>Aulicus</hi> can give content</l>
+                           <l>For former wrongs, in being penitent,</l>
+                           <l>I send these lines to witnesse unto all,</l>
+                           <l>My sorrow for offences great and small.</l>
+                           <pb n="7" facs="tcp:155031:4"/>
+                           <l>I crosse the Cudgels now, and needs must yeeld,</l>
+                           <l>Unto such Potent Enemies the field,</l>
+                           <l>When Truth and Wit, do both together meet,</l>
+                           <l>And strive to make the Victory complete.</l>
+                           <l>I could confesse, if 'twere not shame to write,</l>
+                           <l>My selfe a Convert, and your Proselyte:</l>
+                           <l>Or were I sure the people should not know</l>
+                           <l>That ever <hi>Aulicus</hi> was brought thus low,</l>
+                           <l>To your ingenuous Selves I would be free,</l>
+                           <l>And tell a story of our misery.</l>
+                           <l>But least this letter should perchance be view'd,</l>
+                           <l>And laught, and scoft at by the Multitude,</l>
+                           <l>I will forbeare, supposing you as well</l>
+                           <l>As we our selves, can our mis-fortunes tell.</l>
+                           <l>My suit good <hi>Spie</hi> is, when thou dost indite</l>
+                           <l>Intelligence hereafter, do not bite</l>
+                           <l>With such remorselesse words; for in good sooth</l>
+                           <l>Thou mak'st us mad, There's venome in thy tooth.</l>
+                           <l>Desire <hi>Britannicus</hi> to rest content</l>
+                           <l>And spare us, then wee'll confesse a Parliament.</l>
+                           <l>Me thinks Intelligence should be enough</l>
+                           <l>To fill a sheet, without Satyricke stuffe;</l>
+                           <l>If not, Ile teach thee th' Art of foysting in</l>
+                           <l>Reports, and never thinke them false, or sin:</l>
+                           <l>Which tricke shall be connived at by me,</l>
+                           <l>If I may have like kindnesse back from thee.</l>
+                           <l>O good Sir do; this way will be the best</l>
+                           <l>To satisfie the Court, and make the rest</l>
+                           <l>Your friends in time. My Lord of <hi>Yarmouth</hi> once</l>
+                           <l>Swore faire, that for his Grandsires Marrow-bones,</l>
+                           <l>They never should stick in his stomack more,</l>
+                           <l>If you would quiet be, and now give o're.</l>
+                           <l>Besides, He, and the Rest, will weekly give</l>
+                           <l>A Noble pension, that your Wits may live</l>
+                           <pb n="8" facs="tcp:155031:5"/>
+                           <l>In silence: The Bishops have decreed to pawne,</l>
+                           <l>Rather than thou shouldest want, their very Lawne,</l>
+                           <l>Cassocks, Copes, Tippets, Cowles; and to pull downe</l>
+                           <l>The very Organs, all about the towne.</l>
+                           <l>It is but reason now, that thou should'st grant</l>
+                           <l>Us this request, when we do thus recant:</l>
+                           <l>Farewell Renowned Wits. Now let us see</l>
+                           <l>Your pitty is beyond our destiny.</l>
+                        </lg>
+                        
+                        <closer>
+                           <dateline>Given under my hand and Seale at <hi>Oxford.</hi>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINJS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed according to Order for <hi>I. F.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
